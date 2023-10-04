@@ -1,0 +1,8 @@
+TODO:
+
+Get pet photos, names, and descriptions
+Figure out how to get photos to distribute on page
+Resize photos with css
+
+1. Header
+2. Dogs
