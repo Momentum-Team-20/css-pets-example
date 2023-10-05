@@ -26,3 +26,8 @@ section {
 .pet-image {
   height: 200px;
 }
+
+.flex {
+  display: flex;
+  flex-wrap: wrap;
+}
