@@ -1,26 +1,28 @@
 * {
-    border: 2px solid blue;
-    box-sizing: border-box;
-    font-family: 'Roboto Mono', monospace;
+  border: 2px solid blue;
+  box-sizing: border-box;
+  font-family: 'Roboto Mono', monospace;
 }
 
-
-
 section {
-    /* names of html elements have no punctuation in front of them */
-    border: 2px solid hotpink;
+  /* names of html elements have no punctuation in front of them */
+  border: 2px solid hotpink;
 }
 
 .intro {
-    /* names of classes have a '.' in front */
-    background-color: lightgreen;
+  /* names of classes have a '.' in front */
+  background-color: lightgreen;
 }
 
 #pet-data {
-    /* names of id's have a '#' in front */
-    background-color: lightsteelblue;
+  /* names of id's have a '#' in front */
+  background-color: lightsteelblue;
 }
 
 .name {
-    font-size: xx-large;
+  font-size: xx-large;
+}
+
+.pet-image {
+  height: 200px;
 }
